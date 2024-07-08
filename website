@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regen AI - Under Construction</title>
+    <style>
+        body {
+            background-color: #228B22; /* Forest green color */
+            color: white;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+            border-radius: 10px;
+        }
+        a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Regen AI Website Under Construction</h1>
+        <p>Generating Data to Drive Conservation & Restoration.</p>
+        <p>Reach out: <a href="mailto:hello@regen-ai.org">hello@regen-ai.org</a></p>
+    </div>
+</body>
+</html>
